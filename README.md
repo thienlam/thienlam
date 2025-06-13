@@ -4,7 +4,7 @@ I'm Lâm Chí Thiện, a passionate Software Engineer currently working at Money
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on backend development with PHP, Ruby, NodeJs, and Kotlin.
+- 🔭 I’m currently working on backend development with Ruby, NodeJs, PHP and Kotlin.
 - 🌱 I’m also skilled in frontend technologies like TailwindCSS, Bootstrap, ReactJs, and JavaScript...
 - ☁️ I have some experience with AWS and Terraform scripts.
 - 💬 Ask me about anything related to software development, and I'll be happy to help!
